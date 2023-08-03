@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.ui.inverted.menu, .item{
+  border-radius: 0 !important;
+}
+
+.ui.icon.center.aligned.header{
+  padding-top: 1%;
+  font-size:50px;
+}
+
+.ui.medium.image, .ui.medium.images .image, .ui.medium.images img, .ui.medium.images svg{
+  width: 300px !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  font-size: 1rem;
+}
