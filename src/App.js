@@ -13,7 +13,7 @@ export default function App(){
         <section><MyMenu/></section>
         <section> <MyHeader/></section>
         <section><BodyContainer/></section>
-        
+        <div></div>
       </body>
       <footer>
 
