@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myblog/static/css/main.c5b3b171.css",
-    "main.js": "/myblog/static/js/main.48be3dee.js",
+    "main.css": "/myblog/static/css/main.763bd201.css",
+    "main.js": "/myblog/static/js/main.fadb0ee8.js",
     "static/media/brand-icons.svg": "/myblog/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/myblog/static/media/icons.62d9dae4e0040e81c980.svg",
     "static/media/outline-icons.svg": "/myblog/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
@@ -19,11 +19,11 @@
     "static/media/outline-icons.woff": "/myblog/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
     "static/media/outline-icons.woff2": "/myblog/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/myblog/index.html",
-    "main.c5b3b171.css.map": "/myblog/static/css/main.c5b3b171.css.map",
-    "main.48be3dee.js.map": "/myblog/static/js/main.48be3dee.js.map"
+    "main.763bd201.css.map": "/myblog/static/css/main.763bd201.css.map",
+    "main.fadb0ee8.js.map": "/myblog/static/js/main.fadb0ee8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c5b3b171.css",
-    "static/js/main.48be3dee.js"
+    "static/css/main.763bd201.css",
+    "static/js/main.fadb0ee8.js"
   ]
 }
